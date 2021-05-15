@@ -1,0 +1,9 @@
+
+{
+  "app.header" : "قم بتحرير <code>{fileName}</code> وحفظه لإعادة التحميل",
+  "app.content" : "تعلم React" ,
+  "app.channel.plug": "تم تدويله من قبل طلاب من  {institution}",
+  "app.plural": "{amount, plural, =0 {no languages} one {# one language} few {# several languages} many {# lots of languages} other {# wrong fromat}}",
+  "app.currency": "SAR",
+  "react.site": "https://ar.reactjs.org/"
+}

@@ -1,0 +1,8 @@
+{
+  "app.header" : "Edite <code>{fileName}</code> e salve para recarregar",
+  "app.content" : "Aprenda React",
+  "app.channel.plug": "Internacionalizado por alunos da {institution}",
+  "app.plural": "{amount, plural, =0 {no languages} one {# one language} few {# several languages} many {# lots of languages} other {# wrong fromat}}",
+  "app.currency":"BRL",
+  "react.site": "https://pt-br.reactjs.org/"
+}
